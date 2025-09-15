@@ -46,7 +46,7 @@ The demo allows viewers to see how the system accurately interprets sign languag
 - User-friendly interface: The project includes a user-friendly interface that simplifies the interaction with the system, ensuring a smooth user experience.
 - Open-source: The Realtime Sign Language Detection Using LSTM Model is an open-source project, encouraging contributions and fostering collaboration in the development community.
 
-![Neural Network](https://github.com/AvhishekAdhikary/Realtime-Sign-Language-Detection-Using-LSTM-Model/assets/32614982/2adabb2c-db8e-47a3-a7ae-f2ce7175cc82)
+![Neural Network](https://github.com/daniyalhayat10/Sign-Language-Realtime-Detection-Using-LSTM/assets/32614982/2adabb2c-db8e-47a3-a7ae-f2ce7175cc82)
 
 
 ## Getting Started
@@ -92,4 +92,4 @@ This section states that the Realtime Sign Language Detection Using LSTM Model p
 
 ## Contact
 
-For any questions or inquiries, feel free to contact me at avhishe.adhikary11@gmail.com.
+For any questions or inquiries, feel free to contact me at daniyalhayat10@gmail.com.
